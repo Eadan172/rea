@@ -8,7 +8,7 @@
 [![license](https://img.shields.io/badge/license-MIT-f4c430?style=flat-square)](LICENSE)
 
 基于 [morluto/rea](https://github.com/morluto/rea) v6.5.0 · 本 README 是面向中文用户的**实操手册版**
-各语言原版说明见 [docs/readme/](docs/readme/)
+各语言翻译版见 [docs/readme/](docs/readme/) · 原始英文版（对照参考）：[README_original.md](README_original.md)
 
 </div>
 
